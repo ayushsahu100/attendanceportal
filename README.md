@@ -65,5 +65,4 @@ Better UI enhancements
 👨‍💻 AUTHOR
 
 BCA Final Year Student
-Aspiring Software Developer
 Open to Intern / Fresher opportunities
